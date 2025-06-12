@@ -1,2 +1,2 @@
 funkcja matematyczna
-return x
+return x i x
