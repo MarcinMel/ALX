@@ -4,4 +4,8 @@ trzecia linia
 
 
 Dopisano w develop
+<<<<<<< HEAD
 lala
+=======
+develop ciag dalszy
+>>>>>>> develop
